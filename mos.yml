@@ -1,6 +1,6 @@
 author: Miska Peippo <18567301+peimis@users.noreply.github.com>
 type: lib
-description: ESP32 SPI lib
+description: Mongoose-OS ESP32 SPI lib
 version: 0.1
 
 sources:

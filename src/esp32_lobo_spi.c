@@ -1154,10 +1154,6 @@ esp_err_t IRAM_ATTR spi_lobo_transfer_data(spi_lobo_device_handle_t handle, spi_
 }
 
 
-<<<<<<< HEAD
-bool mgos_mos_lobo_spi_lib_init(void) {
-=======
 bool mgos_mos_lobo_spi_init(void) {
->>>>>>> 528c1be2d4c0af07156904bb29a35818768ae525
   return true;
 }

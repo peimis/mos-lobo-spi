@@ -158,11 +158,7 @@ typedef spi_lobo_device_interface_config_t* spi_lobo_device_interface_config_han
 /**
  * @brief MGOS lib init
  */
-<<<<<<< HEAD
-bool mgos_mos_lobo_spi_lib_init(void);
-=======
 bool mgos_mos_lobo_spi_init(void);
->>>>>>> 528c1be2d4c0af07156904bb29a35818768ae525
 
 
 /**
